@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <dimen name="fab_margin">16dp</dimen>
+    <shape name="rectangle" android:shape="rectangle">
+        <solid android:color="@color/colorAccent"/>
+        <corners android:radius="50dp"/>
+    </shape>
+</resources>
